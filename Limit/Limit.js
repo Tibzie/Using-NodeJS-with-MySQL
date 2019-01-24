@@ -8,7 +8,7 @@ const con = mysql.createConnection({
   database: "mydb"
 });
 
-con.connection(function(err) {
+con.connect(function(err) {
   if(err) throw err;
   const sql = "SELECT * FROM employees LIMIT 2";
   con.query(sql, function(err, result) {
