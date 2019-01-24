@@ -1,14 +1,15 @@
 # Using-NodeJS-with-MySQL
 
-[Create Connection](#connection)
+# Table of Contents
+- [Create Connection](#create-connection)
 
-1. [Create Connection]
+<a name="create-connection"></a>
 ## 1. Create Connection
 
 Creating connection.<br>
 ![connection](Screenshots/desc.JPG)
 
-[Database](#Database)
+[Database](#database)
 ## 2. Create Database
 
 Creating a database.<br>
