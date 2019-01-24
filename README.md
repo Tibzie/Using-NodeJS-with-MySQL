@@ -1,6 +1,4 @@
-# Using-NodeJS-with-MySQL
-
-# Table of Contents
+# Using-NodeJS-with-MySQL<br>(Table of Contents)
 - [Create Connection](#create-connection)
 - [Create Database](#create-database)
 - [Create Table](#create-table)
