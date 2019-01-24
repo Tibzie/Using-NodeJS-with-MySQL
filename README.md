@@ -15,11 +15,12 @@
 
 <a name="create-connection"></a>
 ## 1. Create Connection
-![connection](Screenshots/desc.JPG)
+![connection](Screenshots/connection.JPG)
 
 <a name="create-database"></a>
 ## 2. Create Database
-![createdatabase](Screenshots/insert_many_records.JPG)
+![createdatabase](Screenshots/databasecreated1.JPG)<br>
+![createdatabase2](Screenshots/databasecreated2.JPG)
 
 <a name="create-table"></a>
 ## 3. Create Table
@@ -47,8 +48,7 @@
 
 <a name="limit"></a>
 ## 7. Limit
-![droptable1.JPG](Screenshots/droptable1.JPG)<br>
-![droptable2.JPG](Screenshots/droptable2.JPG)
+![limit.JPG](Screenshots/limit.JPG)
 
 <a name="order-by"></a>
 ## 8. Order By
