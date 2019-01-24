@@ -9,7 +9,7 @@ const con = mysql.createConnection({
 
 con.connect(function(err) {
   if(err) throw err;
-  var jobt = 'singer';
+  const jobt = 'singer';
   const sql = 'SELECT * FROM employees WHERE jobtitle = ' + mysql.escape(jobt);
   con.query(sql, function(err, result) {
     if(err) throw err;
